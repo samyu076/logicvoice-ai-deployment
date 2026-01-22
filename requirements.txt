@@ -2,6 +2,4 @@ fastapi
 uvicorn
 websockets
 python-dotenv
-openai-whisper
-torch
-numpy
+faster-whisper
