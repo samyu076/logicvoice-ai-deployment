@@ -5,7 +5,7 @@ import os
 import wave
 
 # Importing your logic engine
-from utils.transcribe_utils import transcribe_audio
+from .utils.transcribe_utils import transcribe_audio
 from utils.lfa_generator import generate_lfa_json
 
 app = FastAPI()
